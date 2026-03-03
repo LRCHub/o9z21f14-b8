@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ウィッシュ～この願い～ (From『ウィッシュ』／日本語版)",
+  "base_artist": "Erika Ikuta",
+  "createdAt": "2026-03-03T12:10:35.527859Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウィッシュ～この願い～/日本語版",
+      "artist": "生田絵梨花",
+      "has_synced": false,
+      "path": "select/pl_01_ウィッシュ~この願い~_日本語版_生田絵梨花.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ウィッシュ～この願い～",
+      "artist": "生田絵梨花",
+      "has_synced": false,
+      "path": "select/pl_02_ウィッシュ~この願い~_生田絵梨花.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ウィッシュ～この願い～",
+      "artist": "生田絵梨花",
+      "has_synced": false,
+      "path": "select/pl_03_ウィッシュ~この願い~_生田絵梨花.txt"
+    }
+  ]
+}
